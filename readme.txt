@@ -1,8 +1,7 @@
-#Docker Hub
+# Docker Hub
 
 ```
 Once you have created a repository, you can start using docker push to push images.
-
 
 ```
 ## Process
